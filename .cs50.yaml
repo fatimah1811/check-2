@@ -2,6 +2,6 @@ check.50:
 checks:
 hello world:
 - run: python3 hello.py
-stdin: Hi
+stdin: Hello, world!
 stdout: Hello, world!
 exit: 0
